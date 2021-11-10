@@ -4,4 +4,4 @@ a tool for better surfing experience designed by FireExtingusier.
 
 
 
-(it's only a joke ,we don't take any responibilities for any destruction occured by your using this application :p)
+(it's only a joke ,we don't take any responsibilities for any destruction occurred by your using this application :p)
