@@ -1,5 +1,5 @@
 # MakUrPCRunFaster
-a tool for better surfing experience designed by FireExtingusier.
+a tool for better internet surfing experience designed by typedef and updated by @RymCold.
 
 
 
